@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="comment">Comment</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+
+    <string name="editSurname">Surname</string>
+    <string name="editName">Name</string>
+    <string name="editAddress">Address</string>
+    <string name="editCountry">Country</string>
+    <string name="editCity">City</string>
+    <string name="editComment">Comment</string>
+
+</resources>
